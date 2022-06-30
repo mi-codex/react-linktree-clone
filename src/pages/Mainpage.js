@@ -41,7 +41,7 @@ const MainPage = () => {
           </Row>
           <Row className="text-center">
             <Col>
-              <h2>UI/UX AND WEB DEVELOPER</h2>
+              <h2>UI UX AND WEB DEVELOPER</h2>
             </Col>
           </Row>
         </Container>
