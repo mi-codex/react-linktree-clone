@@ -1,6 +1,6 @@
 # Simple React Linktree Clone
 
-![Screenshots](C:\Users\IRFAN\Desktop\linktree-clone\Screenshot.png)
+![Screenshots](https://github.com/mi-codex/react-linktree-clone/blob/master/Screenshot.png?raw=true)
 
 ## This project using library :
 
